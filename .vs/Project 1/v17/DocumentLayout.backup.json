@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\curse\\OneDrive\\Desktop\\New folder\\Project 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F312B9D7-6243-43BF-80C5-B6CE48BE1FD2}|High score\\High score.csproj|c:\\users\\curse\\onedrive\\desktop\\new folder\\project 1\\project-1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F312B9D7-6243-43BF-80C5-B6CE48BE1FD2}|High score\\High score.csproj|solutionrelative:project-1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\curse\\OneDrive\\Desktop\\New folder\\Project 1\\Project-1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Project-1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\curse\\OneDrive\\Desktop\\New folder\\Project 1\\Project-1\\MSTestSettings.cs",
+              "RelativeToolTip": "Project-1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:46:58.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
